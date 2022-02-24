@@ -1,10 +1,7 @@
-- 👋 ola,sou everton mini proganador
-- 👀 criar bots 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="https://i.ibb.co/zZt0jCb/6d2d1f3eefe651f107c84f6c67544031.jpg" width="128" alt="gif" align="left">
+<center>
 
-<!---
-evertonsin/evertonsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### _*Contatme:*_
+fale cmg via :
+<p align="left">
+<a href="https://wa.me/994405154478"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
